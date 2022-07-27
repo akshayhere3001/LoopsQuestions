@@ -1,5 +1,5 @@
 public class Problem4{
-  public static void Main(String[] args){
+  public static void main(String[] args){
       
       
       // Problem-5 -> Write a Program to find factorial of given number
