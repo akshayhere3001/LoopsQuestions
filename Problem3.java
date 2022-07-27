@@ -1,5 +1,5 @@
 public class Problem3{
-  public static void Main(String[] args){
+  public static void main(String[] args){
   
   
     // Problem-3 -> Write a Programme to print multiplication table of given number n
